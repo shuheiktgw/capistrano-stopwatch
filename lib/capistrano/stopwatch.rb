@@ -1,0 +1,1 @@
+require 'capistrano/stopwatch/stopwatch'
